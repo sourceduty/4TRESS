@@ -171,5 +171,12 @@ In the not-so-distant future, humanity is on the brink of extinction due to a gl
 - Regular collaboration and feedback loops to ensure a cohesive and polished game.
 
 #
+
+> [!TIP]
+> ```
+> This game represents a substantial concept that demands significant investment for its development. If you're keen on participating in the creation of this game, please reach out to Alex at Sourceduty. Alex really likes this game concept, considering it a personal favorite.
+> ```
+
+#
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
 ***
