@@ -174,6 +174,8 @@ In the not-so-distant future, humanity is on the brink of extinction due to a gl
 
 > [!TIP]
 > This game represents a substantial concept that demands significant investment for its development. If you're keen on participating in the creation of this game, please reach out to Alex at Sourceduty. Alex really likes this game concept, considering it a personal favorite.
+>
+> I find myself constantly searching through Steam, hoping to stumble upon an FPS base builder that includes zombies or AI enemies in its gameplay. Games like Fortnite and Rust are great, but they don't offer the specific experience I'm looking for; I crave a game that throws hordes of zombies and AI opponents my way, not just a small squad.
 
 
 #
