@@ -176,10 +176,16 @@ In the not-so-distant future, humanity is on the brink of extinction due to a gl
 >
 > I find myself constantly searching through Steam, hoping to stumble upon an FPS base builder that includes zombies or AI enemies in its gameplay. Games like Fortnite and Rust are great, but they don't offer the specific experience I'm looking for; I crave a game that throws hordes of zombies and AI opponents my way, not just a small squad.
 >
-> [Crowdfunding](https://github.com/sourceduty/Crowdfunding)
 
 #
 ![4TRESS Concept Design](https://github.com/sourceduty/4TRESS/assets/123030236/5728dfaf-559b-4320-8e32-2f9ea78539ac)
 #
-Copyright (C) 2024, Sourceduty - All Rights Reserved.
+
+### Development
+
+To meet the January 1, 2026 launch for the 4TRESS game with a $259,076 budget, the plan includes pre-production starting in April 2024, followed by a 14-month production phase. Post-production is set for four months, concluding in November 2025. Marketing begins in November 2025, leading up to the launch. The budget is allocated across pre-production, production, post-production, marketing, and contingency funds. Key milestones include completing pre-production by June 2024, reaching the alpha version by December 2024, beta by May 2025, and starting release preparations in August 2025.
+
+[Crowdfunding](https://github.com/sourceduty/Crowdfunding)
+
 ***
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
