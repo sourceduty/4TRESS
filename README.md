@@ -2,13 +2,7 @@
 
 ***
 ## Game Design Document: 4TRESS
-
-## Game Overview
-
-### Title
-
-**4TRESS**
-
+#
 ### Genre
 
 First-Person Shooter (FPS), Tower Defense
