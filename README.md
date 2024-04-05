@@ -174,11 +174,5 @@ In the not-so-distant future, humanity is on the brink of extinction due to a gl
 ![4TRESS Concept Design](https://github.com/sourceduty/4TRESS/assets/123030236/5728dfaf-559b-4320-8e32-2f9ea78539ac)
 #
 
-### Development
-
-To meet the January 1, 2026 launch for the 4TRESS game with a $259,076 budget, the plan includes pre-production starting in April 2024, followed by a 14-month production phase. Post-production is set for four months, concluding in November 2025. Marketing begins in November 2025, leading up to the launch. The budget is allocated across pre-production, production, post-production, marketing, and contingency funds. Key milestones include completing pre-production by June 2024, reaching the alpha version by December 2024, beta by May 2025, and starting release preparations in August 2025.
-
-[Crowdfunding](https://github.com/sourceduty/Crowdfunding)
-
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
