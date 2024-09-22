@@ -1,8 +1,8 @@
 ![4TRESS](https://github.com/sourceduty/4TRESS/assets/123030236/5572fcd4-07e5-4b4b-9358-4a22f3e3e62e)
 
-## Game Design Document: 4TRESS
+> First-person shooter where players build and defend bases against relentless waves of AI enemies.
 
-### Genre
+#
 
 First-Person Shooter (FPS), Tower Defense
 
