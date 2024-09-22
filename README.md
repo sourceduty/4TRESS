@@ -173,6 +173,8 @@ In the not-so-distant future, humanity is on the brink of extinction due to a gl
 #
 ![4TRESS Concept Design](https://github.com/sourceduty/4TRESS/assets/123030236/5728dfaf-559b-4320-8e32-2f9ea78539ac)
 #
+![Meme](https://github.com/user-attachments/assets/05326d79-86e6-4199-b1b6-b0e12536bb90)
+#
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
